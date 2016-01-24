@@ -1,0 +1,52 @@
+
+body{
+    font-family: Arial, Melvetica, sans-serif;
+    margin: 0 auto;
+    width: 90%;
+    background: #F4F4F4;
+    
+}
+
+section{
+    width: 70%;
+    float: left;
+    background: #F4F4F4;
+    padding-left: 35px; 
+}
+
+aside{
+    width: 20%;
+    float: left;
+    padding-left: 15px; 
+}
+
+footer{
+    clear: both;
+    margin-left: auto;
+    text-align: center;
+}
+
+nav {
+  background: #F4F4F4;
+  list-style: none;
+
+}
+
+nav ul{
+    list-style: none;
+    float: left;
+}
+
+nav ul li{
+    float: left;
+    margin-right: 20px;
+    font: bold 22px sams-serif;
+    text-align: center;
+    text-decoration: none;
+}
+
+.parrafo{
+ background-color: gray;
+ 
+}
+
